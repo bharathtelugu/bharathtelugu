@@ -1,4 +1,4 @@
-- 👋 Hi, I’m bharathtelugu
+- 👋 Hi, I’m @bharathtelugu
 - 👀 I’m interested in Web Development 
 - 🌱 I’m currently learning React, Nodejs
 - 📫 How to reach me bharath738610@gmail.com
